@@ -1,0 +1,5 @@
+tabulate
+argparse
+boto3
+tqdm
+python-cfonts
